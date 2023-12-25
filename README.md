@@ -1,5 +1,5 @@
 Game Rules:
-/n1 - Gamers are playing an online game. All of them need to enter a room but only one gamer can be in the room at any moment. A gamer cannot progress to the next step of the game until the gamer collects 20 gold
+1 - Gamers are playing an online game. All of them need to enter a room but only one gamer can be in the room at any moment. A gamer cannot progress to the next step of the game until the gamer collects 20 gold
 coins in the room.
 2 - There are 20 miners adding gold coins to the room. Only one miner can enter and drop gold coins in the room at any moment. One miner can leave at most 5 gold coins in the room at each time.
 3 - Once a gamer collects the gold coin in the room, regardless how many are in the room and how many coins the gamer collects, the gamer must leave the room. 
